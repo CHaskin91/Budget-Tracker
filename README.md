@@ -2,6 +2,8 @@
 
 An existing budget tracker that has been updated to allow offline access and functionality.
 
+![image](https://github.com/CHaskin91/Budget-Tracker/blob/main/public/assets/screenshot.PNG)
+
 ## Table of Contents
 
 - [Acceptance Criteria](#acceptance-criteria)
